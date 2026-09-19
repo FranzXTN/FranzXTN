@@ -6,10 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3DDC97&center=true&vCenter=true&width=620&lines=Desenvolvimento+web;Construindo+projetos+em+p%C3%BAblico;Aprendendo+um+pouco+todo+dia" alt="Texto animado" />
 </a>
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=FranzXTN&color=3ddc97&style=flat-square&label=visitas" alt="Visitas ao perfil" />
-
 </div>
 
 ---
@@ -48,18 +44,10 @@ Construo coisas úteis e aprendo em público. Aqui ficam meus projetos, estudos 
 
 ## 🚀 Projetos em destaque
 
-<div align="center">
-
-<a href="https://github.com/FranzXTN/CHAT-BOT">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=FranzXTN&repo=CHAT-BOT&theme=dark&bg_color=0d1117&title_color=3ddc97&icon_color=3ddc97&text_color=c9d1d9&border_color=1f2a30" alt="CHAT-BOT" />
-</a>
-<a href="https://github.com/FranzXTN/ATIVIDADE-02-NATAN">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=FranzXTN&repo=ATIVIDADE-02-NATAN&theme=dark&bg_color=0d1117&title_color=3ddc97&icon_color=3ddc97&text_color=c9d1d9&border_color=1f2a30" alt="ATIVIDADE-02-NATAN" />
-</a>
-
-</div>
-
-🔗 **Demo do chatbot:** https://chatbot-crofbase.streamlit.app/
+| Projeto | Descrição | Link |
+| :-- | :-- | :-- |
+| **CHAT-BOT** | Chatbot com interface web feito com Streamlit | [Repositório](https://github.com/FranzXTN/CHAT-BOT) · [Demo](https://chatbot-crofbase.streamlit.app/) |
+| **ATIVIDADE-02-NATAN** | Atividade de desenvolvimento web (HTML) | [Repositório](https://github.com/FranzXTN/ATIVIDADE-02-NATAN) |
 
 ---
 
@@ -67,8 +55,12 @@ Construo coisas úteis e aprendo em público. Aqui ficam meus projetos, estudos 
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=FranzXTN&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=3ddc97&icon_color=3ddc97&text_color=c9d1d9" alt="Estatísticas" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranzXTN&layout=compact&hide_border=true&bg_color=0d1117&title_color=3ddc97&text_color=c9d1d9" alt="Linguagens mais usadas" />
+<img src="https://img.shields.io/github/followers/FranzXTN?style=for-the-badge&logo=github&color=2ea98b&labelColor=0d1117" alt="Seguidores" />
+
+<br/><br/>
+
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FranzXTN&theme=github_dark" alt="Estatísticas" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FranzXTN&theme=github_dark" alt="Linguagens mais usadas" />
 
 <br/>
 
