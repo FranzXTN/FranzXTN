@@ -59,11 +59,6 @@ Construo coisas úteis e aprendo em público. Aqui ficam meus projetos, estudos 
 
 <br/><br/>
 
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FranzXTN&theme=github_dark" alt="Estatísticas" />
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FranzXTN&theme=github_dark" alt="Linguagens mais usadas" />
-
-<br/>
-
 <img src="https://streak-stats.demolab.com?user=FranzXTN&theme=dark&hide_border=true&background=0d1117&ring=3ddc97&fire=3ddc97&currStreakLabel=3ddc97&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="Sequência de contribuições" />
 
 </div>
