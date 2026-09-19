@@ -1,54 +1,85 @@
-## Building in public
-
 <div align="center">
 
-# FranzzTN
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2ea98b&height=200&section=header&text=FranzXTN&fontSize=60&fontColor=e6fff5&animation=fadeIn&fontAlignY=38&desc=Building%20in%20public&descAlignY=58&descSize=20" width="100%" alt="Cabeçalho" />
 
-> Technical founder
+<a href="https://github.com/FranzXTN">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3DDC97&center=true&vCenter=true&width=620&lines=Desenvolvimento+web;Construindo+projetos+em+p%C3%BAblico;Aprendendo+um+pouco+todo+dia" alt="Texto animado" />
+</a>
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=franzxtn&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F271678494%3Fv%3D4" alt="franzxtn hero visual" />
-</p>
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=FranzXTN&color=3ddc97&style=flat-square&label=visitas" alt="Visitas ao perfil" />
 
 </div>
 
-## The point of view
+---
 
-> Building useful things and learning in public.
+## 👋 Sobre mim
 
-- 👥 **5** followers · **5** following
+Construo coisas úteis e aprendo em público. Aqui ficam meus projetos, estudos e experimentos.
 
-*Small, useful work over vague claims.*
+- 🔭 Trabalhando em projetos de desenvolvimento web e bots
+- 🌱 Sempre estudando algo novo
+- 📫 Fale comigo pelo GitHub: [@FranzXTN](https://github.com/FranzXTN)
 
-## What I’m shipping
+<!--
+  Para adicionar contatos, apague as setas e edite:
+  - 💼 LinkedIn: [seu nome](https://www.linkedin.com/in/SEU-USUARIO)
+  - ✉️ E-mail: seuemail@exemplo.com
+-->
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/highlights?username=franzxtn&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F271678494%3Fv%3D4" alt="franzxtn highlights visual" />
-</p>
+---
 
-<p><b>FranzzTN</b> is shipping 4 public projects with 0 stars of proof.</p>
+## 🛠️ Tecnologias
 
-## Products and proof
+<div align="center">
 
-<table>
-<tr><td width="32%"><b><a href="https://github.com/FranzXTN/FranzXTN-FranzXTN">FranzXTN-FranzXTN</a></b></td><td>My GitHub profile<br/><sub>open source · 0 stars</sub></td></tr>
-<tr><td width="32%"><b><a href="https://github.com/FranzXTN/FranzXTN-Atividade-3-css------Franz-114.022">FranzXTN-Atividade-3-css------Franz-114.022</a></b></td><td>A selected project from this GitHub profile.<br/><sub>HTML · 0 stars</sub></td></tr>
-<tr><td width="32%"><b><a href="https://github.com/FranzXTN/ATIVIDADE-02-NATAN">ATIVIDADE-02-NATAN</a></b></td><td>ATIVIDADE DESENVOLVIMENTO WEB<br/><sub>HTML · 0 stars</sub></td></tr>
-<tr><td width="32%"><b><a href="https://github.com/FranzXTN/CHAT-BOT">CHAT-BOT</a></b></td><td>https://chatbot-crofbase.streamlit.app/<br/><sub>CSS · 0 stars</sub></td></tr>
-</table>
+<img src="https://skillicons.dev/icons?i=html,css,python,git,github,vscode&theme=dark" alt="Tecnologias" />
 
-## Momentum
+</div>
 
-<table>
-<tr><td align="center"><b>4</b><br/><sub>repos</sub></td><td align="center"><b>0</b><br/><sub>stars</sub></td><td align="center"><b>16</b><br/><sub>contributions</sub></td></tr>
-</table>
+**Estudando agora:**
 
-## Start a conversation
+<img src="https://skillicons.dev/icons?i=docker,aws&theme=dark" alt="Estudando" />
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/social?username=franzxtn&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F271678494%3Fv%3D4" alt="franzxtn social visual" />
-</p>
+<!-- Se não estiver estudando Docker/AWS, apague as 3 linhas acima (título + imagem). -->
 
-<a href="https://github.com/franzxtn">GitHub</a>
+---
 
-<p align="center"><sub>FranzzTN · Founder profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+## 🚀 Projetos em destaque
+
+<div align="center">
+
+<a href="https://github.com/FranzXTN/CHAT-BOT">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=FranzXTN&repo=CHAT-BOT&theme=dark&bg_color=0d1117&title_color=3ddc97&icon_color=3ddc97&text_color=c9d1d9&border_color=1f2a30" alt="CHAT-BOT" />
+</a>
+<a href="https://github.com/FranzXTN/ATIVIDADE-02-NATAN">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=FranzXTN&repo=ATIVIDADE-02-NATAN&theme=dark&bg_color=0d1117&title_color=3ddc97&icon_color=3ddc97&text_color=c9d1d9&border_color=1f2a30" alt="ATIVIDADE-02-NATAN" />
+</a>
+
+</div>
+
+🔗 **Demo do chatbot:** https://chatbot-crofbase.streamlit.app/
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=FranzXTN&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=3ddc97&icon_color=3ddc97&text_color=c9d1d9" alt="Estatísticas" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranzXTN&layout=compact&hide_border=true&bg_color=0d1117&title_color=3ddc97&text_color=c9d1d9" alt="Linguagens mais usadas" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=FranzXTN&theme=dark&hide_border=true&background=0d1117&ring=3ddc97&fire=3ddc97&currStreakLabel=3ddc97&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="Sequência de contribuições" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2ea98b,100:0d1117&height=100&section=footer" width="100%" alt="Rodapé" />
+
+</div>
