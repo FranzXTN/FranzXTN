@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2ea98b&height=200&section=header&text=FranzXTN&fontSize=60&fontColor=e6fff5&animation=fadeIn&fontAlignY=38&desc=Building%20in%20public&descAlignY=58&descSize=20" width="100%" alt="Cabeçalho" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2ea98b&height=200&section=header&text=FranzXTN&fontSize=60&fontColor=e6fff5&animation=fadeIn&fontAlignY=50" width="100%" alt="Cabeçalho" />
 
 <a href="https://github.com/FranzXTN">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3DDC97&center=true&vCenter=true&width=620&lines=Desenvolvimento+web;Construindo+projetos+em+p%C3%BAblico;Aprendendo+um+pouco+todo+dia" alt="Texto animado" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3DDC97&center=true&vCenter=true&width=620&lines=Desenvolvimento+web;Bots+e+automa%C3%A7%C3%B5es;Aprendendo+um+pouco+todo+dia" alt="Texto animado" />
 </a>
 
 </div>
@@ -12,7 +12,7 @@
 
 ## 👋 Sobre mim
 
-Construo coisas úteis e aprendo em público. Aqui ficam meus projetos, estudos e experimentos.
+Construo coisas úteis e estou sempre aprendendo. Aqui ficam meus projetos, estudos e experimentos.
 
 - 🔭 Trabalhando em projetos de desenvolvimento web e bots
 - 🌱 Sempre estudando algo novo
